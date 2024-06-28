@@ -8,6 +8,10 @@
   },
   "author": "Saket Vats",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedo18/basic-npm-package.git"
+  },
   "keywords": ["express", "server"],
   "description": "First basic npm package",
   "dependencies": {
